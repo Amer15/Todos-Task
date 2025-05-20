@@ -1,0 +1,9 @@
+https://jsonplaceholder.typicode.com/todos
+
+
+setup new project with https://ui.shadcn.com/
+create a table view and list all these todos
+do not call API again, one 1st time api must be called
+and we need a search bar at the top with live search in current todo data
+
+i should be able to see live search results in table
