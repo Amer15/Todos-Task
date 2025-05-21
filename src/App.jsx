@@ -56,8 +56,7 @@ const App = () => {
       </h3>
 
       <p className="text-center text-base">
-        {filteredTodos.length > 0 ? filteredTodos.length : todos.length} todos
-        found
+        {searchQuery ? filteredTodos.length : todos.length} todos found
       </p>
 
       <Input
